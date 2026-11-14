@@ -1,0 +1,2630 @@
+{
+  "version": 3,
+  "season": "2026",
+  "dinners": [
+    {
+      "id": "cena-1",
+      "title": {
+        "it": "Cena giorno 1",
+        "en": "Day 1 dinner",
+        "fr": "Dîner du jour 1",
+        "de": "Abendessen Tag 1"
+      },
+      "summary": {
+        "it": ""
+      },
+      "courses": [
+        {
+          "course": "antipasto",
+          "recipe": "E5AEBE6B-2E1C-4089-8372-0E9313BCB95B"
+        },
+        {
+          "course": "primo",
+          "recipe": "595FF907-04D4-49C2-9244-D2C84FD1324C"
+        },
+        {
+          "course": "secondo",
+          "recipe": "565959B4-EE05-4FBD-90D0-B87F24AC0C08"
+        },
+        {
+          "course": "dolce",
+          "recipe": "0549E4D5-9750-4D33-9EE7-F537719CFACE"
+        }
+      ]
+    },
+    {
+      "id": "mare-di-salina",
+      "title": {
+        "it": "Mare di Salina",
+        "en": "Salina Sea",
+        "fr": "La mer de Salina",
+        "de": "Meer von Salina"
+      },
+      "summary": {
+        "it": "Una cena di pesce, come le sere d'estate in terrazza.",
+        "en": "A seafood dinner, like summer evenings on the terrace.",
+        "fr": "Un dîner de poisson, comme les soirs d'été en terrasse.",
+        "de": "Ein Fischabend wie an Sommerabenden auf der Terrasse."
+      },
+      "courses": [
+        {
+          "course": "antipasto",
+          "recipe": "43EA2D5E-6DAD-4FAE-8663-871D213CC50C"
+        },
+        {
+          "course": "primo",
+          "recipe": "8A0636B1-9DB5-4892-96A2-B77C4E2F95D1"
+        },
+        {
+          "course": "secondo",
+          "recipe": "1152668F-CA98-4539-A030-DCF4940EA15B"
+        },
+        {
+          "course": "dolce",
+          "recipe": "C6870059-4924-4768-8ACB-B93D2D869828"
+        }
+      ]
+    },
+    {
+      "id": "tradizione-siciliana",
+      "title": {
+        "it": "Tradizione siciliana",
+        "en": "Sicilian tradition",
+        "fr": "Tradition sicilienne",
+        "de": "Sizilianische Tradition"
+      },
+      "summary": {
+        "it": "I classici dell'isola, da preparare con calma.",
+        "en": "The island's classics, to be made at a gentle pace.",
+        "fr": "Les classiques de l'île, à préparer tranquillement.",
+        "de": "Die Klassiker der Insel, in Ruhe zubereitet."
+      },
+      "courses": [
+        {
+          "course": "antipasto",
+          "recipe": "109B4A43-9E65-407F-A612-E92B4419AED1"
+        },
+        {
+          "course": "primo",
+          "recipe": "FF3C2E0F-4716-4909-9AC4-D6AF2B16934B"
+        },
+        {
+          "course": "secondo",
+          "recipe": "8FA7B6AC-E487-4356-BD80-0DBCF3A4B58A"
+        },
+        {
+          "course": "dolce",
+          "recipe": "ADA778B3-1C03-41D3-9E16-8548948999D7"
+        }
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "43EA2D5E-6DAD-4FAE-8663-871D213CC50C",
+      "title": {
+        "it": "Cestino di zucchina con ceviche di gamberi",
+        "en": "Zucchini basket with shrimp ceviche",
+        "fr": "Panier de courgette, ceviche de crevettes",
+        "de": "Zucchinikörbchen mit Garnelen-Ceviche"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 10,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Tartare pronta, 18/20 g a testa",
+            "en": "Ready-made tartare, 18–20 g per person",
+            "fr": "Tartare prêt, 18 à 20 g par personne",
+            "de": "Fertiges Tatar, 18–20 g pro Person"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Peperoncino verde piccante",
+            "en": "Hot green chili",
+            "fr": "Piment vert fort",
+            "de": "Scharfe grüne Chilischote"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "succo di lime",
+            "en": "lime juice",
+            "fr": "jus de citron vert",
+            "de": "Limettensaft"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "pomodoro ramato medio, a dadini senza buccia e senza semi",
+            "en": "medium vine tomato, diced, skinned and seeded",
+            "fr": "tomate en grappe moyenne, en dés, sans peau ni pépins",
+            "de": "mittelgroße Rispentomate, gewürfelt, ohne Haut und Kerne"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "ciuffo prezzemolo, tritato",
+            "en": "bunch of parsley, chopped",
+            "fr": "bouquet de persil, haché",
+            "de": "Bund Petersilie, gehackt"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Coriandolo",
+            "en": "Cilantro",
+            "fr": "Coriandre",
+            "de": "Koriander"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 20,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "cipolla rossa",
+            "en": "red onion",
+            "fr": "oignon rouge",
+            "de": "rote Zwiebel"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "pochino di senape",
+            "en": "a little mustard",
+            "fr": "un peu de moutarde",
+            "de": "etwas Senf"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Zucchine",
+            "en": "Zucchini",
+            "fr": "Courgettes",
+            "de": "Zucchini"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Maionese di soia con curry",
+            "en": "Soy mayonnaise with curry",
+            "fr": "Mayonnaise de soja au curry",
+            "de": "Soja-Mayonnaise mit Curry"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Sbollentare velocemente il pomodoro per sbucciarlo",
+            "en": "Blanch the tomato briefly to peel it",
+            "fr": "Blanchir rapidement la tomate pour la peler",
+            "de": "Die Tomate kurz blanchieren, um sie zu häuten"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Unire tutti gli ingredienti della ceviche e mettere in frigo",
+            "en": "Combine all the ceviche ingredients and refrigerate",
+            "fr": "Mélanger tous les ingrédients du ceviche et mettre au réfrigérateur",
+            "de": "Alle Zutaten für das Ceviche vermischen und in den Kühlschrank stellen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Ricavare dalle zucchine 10 cilindri alti uguali svuotandole all'interno ricavandone cestini",
+            "en": "Cut 10 cylinders of equal height from the zucchini and hollow them out to make baskets",
+            "fr": "Tailler dans les courgettes 10 cylindres de même hauteur et les évider pour en faire des paniers",
+            "de": "Aus den Zucchini 10 gleich hohe Zylinder schneiden und aushöhlen, sodass Körbchen entstehen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Salare i cestini di zucchina",
+            "en": "Salt the zucchini baskets",
+            "fr": "Saler les paniers de courgette",
+            "de": "Die Zucchinikörbchen salzen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Cuocere in forno a 145 °C per 10 minuti",
+            "en": "Bake at 145 °C for 10 minutes",
+            "fr": "Cuire au four à 145 °C pendant 10 minutes",
+            "de": "Im Ofen bei 145 °C 10 Minuten garen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Farcire con la ceviche e decorare",
+            "en": "Fill with the ceviche and garnish",
+            "fr": "Garnir de ceviche et décorer",
+            "de": "Mit dem Ceviche füllen und garnieren"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Servire con maionese di soia con curry",
+            "en": "Serve with the curried soy mayonnaise",
+            "fr": "Servir avec la mayonnaise de soja au curry",
+            "de": "Mit der Soja-Curry-Mayonnaise servieren"
+          }
+        }
+      ],
+      "tips": {
+        "it": "Per 10 persone: ",
+        "en": "Serves 10:",
+        "fr": "Pour 10 personnes :",
+        "de": "Für 10 Personen:"
+      },
+      "wine": null,
+      "photos": [
+        "0162EB2A-BD47-4D89-8D8F-DCBEC89CB152.jpg"
+      ]
+    },
+    {
+      "id": "8A0636B1-9DB5-4892-96A2-B77C4E2F95D1",
+      "title": {
+        "it": "Pasta con pesce spada, melanzane e menta",
+        "en": "Pasta with swordfish, eggplant and mint",
+        "fr": "Pâtes à l'espadon, aubergines et menthe",
+        "de": "Pasta mit Schwertfisch, Auberginen und Minze"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 4,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "(per 4 persone)",
+            "en": "(serves 4)",
+            "fr": "(pour 4 personnes)",
+            "de": "(für 4 Personen)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Pasta corta",
+            "en": "Short pasta",
+            "fr": "Pâtes courtes",
+            "de": "Kurze Nudeln"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Pesce spada in fetta 400g o cubetti già spellati",
+            "en": "Swordfish, 400 g in a slice or already skinned cubes",
+            "fr": "Espadon en tranche 400 g, ou en cubes déjà sans peau",
+            "de": "Schwertfisch, 400 g am Stück oder bereits gehäutete Würfel"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 500,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Melanzane",
+            "en": "Eggplants",
+            "fr": "Aubergines",
+            "de": "Auberginen"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 200,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Pomodori pachino",
+            "en": "Pachino tomatoes",
+            "fr": "Tomates Pachino",
+            "de": "Pachino-Tomaten"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 2,
+          "unit": "spicchi",
+          "scalable": true,
+          "name": {
+            "it": "Aglio",
+            "en": "Garlic",
+            "fr": "Ail",
+            "de": "Knoblauch"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": false,
+          "name": {
+            "it": "Menta",
+            "en": "Mint",
+            "fr": "Menthe",
+            "de": "Minze"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Prezzemolo",
+            "en": "Parsley",
+            "fr": "Persil",
+            "de": "Petersilie"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olio per friggere",
+            "en": "Oil for frying",
+            "fr": "Huile de friture",
+            "de": "Frittieröl"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olio evo",
+            "en": "Extra virgin olive oil",
+            "fr": "Huile d'olive extra vierge",
+            "de": "Natives Olivenöl extra"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Buccia di 1 grossa melanzana tagliata a striscioline per ornamento",
+            "en": "Skin of 1 large eggplant, cut into thin strips, to garnish",
+            "fr": "Peau d'une grosse aubergine coupée en fines lanières pour la décoration",
+            "de": "Schale einer großen Aubergine, in feine Streifen geschnitten, zur Dekoration"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliare le melanzane a fette di circa 1 cm e poi a cubetti il più possibile regolari.",
+            "en": "Cut the eggplant into slices about 1 cm thick, then into cubes as even as possible.",
+            "fr": "Couper les aubergines en tranches d'environ 1 cm puis en dés aussi réguliers que possible.",
+            "de": "Die Auberginen in etwa 1 cm dicke Scheiben und dann in möglichst gleichmäßige Würfel schneiden."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliate il pesce spada in cubetti togliendo la pelle.",
+            "en": "Cut the swordfish into cubes, removing the skin.",
+            "fr": "Couper l'espadon en dés en retirant la peau.",
+            "de": "Den Schwertfisch häuten und würfeln."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliare i pomodorini in 4.",
+            "en": "Quarter the cherry tomatoes.",
+            "fr": "Couper les tomates cerises en 4.",
+            "de": "Die Kirschtomaten vierteln."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Friggere le melanzane a 170 gradi e i filetti di buccia per l'ornamento, farle scolare bene su carta assorbente.",
+            "en": "Fry the eggplant and the skin strips for garnish at 170 degrees and drain well on paper towels.",
+            "fr": "Frire les aubergines à 170 degrés ainsi que les lanières de peau pour la décoration, et bien les égoutter sur du papier absorbant.",
+            "de": "Die Auberginen und die Schalenstreifen für die Dekoration bei 170 Grad frittieren und gut auf Küchenpapier abtropfen lassen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Scaldare in una padella l'olio con aglio schiacciato o tagliato finemente.",
+            "en": "Heat the oil in a pan with crushed or finely chopped garlic.",
+            "fr": "Chauffer dans une poêle l'huile avec l'ail écrasé ou finement haché.",
+            "de": "In einer Pfanne das Öl mit zerdrücktem oder fein gehacktem Knoblauch erhitzen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Aggiungere i pomodorini e far cuocere a fiamma alta qualche minuto, poi aggiungere il prezzemolo ed il pesce e far cuocere circa 5 min, senza rompere i cubetti di pesce, mescolando delicatamente.",
+            "en": "Add the tomatoes and cook over high heat for a few minutes, then add the parsley and the fish and cook for about 5 min, stirring gently without breaking the fish cubes.",
+            "fr": "Ajouter les tomates cerises et les cuire quelques minutes à feu vif, puis ajouter le persil et le poisson et cuire environ 5 min sans briser les dés de poisson, en mélangeant délicatement.",
+            "de": "Die Kirschtomaten zugeben und einige Minuten bei starker Hitze garen, dann Petersilie und Fisch zugeben und etwa 5 Min. garen, ohne die Fischwürfel zu zerbrechen, dabei vorsichtig rühren."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "All'ultimo aggiungere parte delle melanzane e lasciar insaporire.",
+            "en": "At the end add part of the eggplant and let it absorb the flavors.",
+            "fr": "À la fin, ajouter une partie des aubergines et laisser s'imprégner.",
+            "de": "Zum Schluss einen Teil der Auberginen zugeben und durchziehen lassen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Scolare la pasta incompletamente e versarla nella padella e aggiungere le altre melanzane e la menta a fuoco spento.",
+            "en": "Drain the pasta slightly underdone, pour it into the pan and add the rest of the eggplant and the mint off the heat.",
+            "fr": "Égoutter les pâtes un peu avant la fin de la cuisson, les verser dans la poêle et ajouter le reste des aubergines et la menthe, hors du feu.",
+            "de": "Die Nudeln kurz vor Ende der Garzeit abgießen, in die Pfanne geben und abseits vom Herd die übrigen Auberginen und die Minze zugeben."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Ornare con foglioline di menta ciascun piatto e con qualche filetto di buccia di melanzana fritto.",
+            "en": "Garnish each plate with small mint leaves and a few strips of fried eggplant skin.",
+            "fr": "Décorer chaque assiette de petites feuilles de menthe et de quelques lanières de peau d'aubergine frites.",
+            "de": "Jeden Teller mit Minzblättchen und einigen frittierten Auberginenschalenstreifen garnieren."
+          }
+        }
+      ],
+      "tips": {
+        "it": "Formato pasta: elicoidale",
+        "en": "Pasta shape: eliche",
+        "fr": "Format de pâtes : eliche",
+        "de": "Nudelsorte: Eliche"
+      },
+      "wine": null,
+      "photos": [
+        "68DA2E7F-AD58-4E91-ACDA-6D0FECA7EAC9.jpg"
+      ]
+    },
+    {
+      "id": "1152668F-CA98-4539-A030-DCF4940EA15B",
+      "title": {
+        "it": "Calamari grigliati con crema di melanzane bruciate",
+        "en": "Grilled squid with charred eggplant cream",
+        "fr": "Calmars grillés, crème d'aubergines brûlées",
+        "de": "Gegrillte Kalmare mit Creme von gerösteten Auberginen"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 4,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Calamari di media pezzatura, uno per persona",
+            "en": "Medium squid, one per person",
+            "fr": "Calmars de taille moyenne, un par personne",
+            "de": "Mittelgroße Kalmare, einer pro Person"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 2,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "pz Melanzane",
+            "en": "Eggplants (pieces)",
+            "fr": "Aubergines (pièces)",
+            "de": "Auberginen (Stück)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Limone",
+            "en": "Lemon",
+            "fr": "Citron",
+            "de": "Zitrone"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Foglie di prezzemolo \"trasparenti\"",
+            "en": "\"Transparent\" parsley leaves",
+            "fr": "Feuilles de persil « transparentes »",
+            "de": "„Transparente“ Petersilienblätter"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Lime",
+            "en": "Lime",
+            "fr": "Citron vert",
+            "de": "Limette"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olio extravergine d'oliva",
+            "en": "Extra virgin olive oil",
+            "fr": "Huile d'olive extra vierge",
+            "de": "Natives Olivenöl extra"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Sale",
+            "en": "Salt",
+            "fr": "Sel",
+            "de": "Salz"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 50,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Tahina",
+            "en": "Tahini",
+            "fr": "Tahini",
+            "de": "Tahini"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Cuocete le melanzane su una griglia, bruciacchiando un po' la buccia, per circa 20'.",
+            "en": "Cook the eggplants on a grill, charring the skin a little, for about 20 minutes.",
+            "fr": "Cuire les aubergines sur un gril en noircissant un peu la peau, environ 20 minutes.",
+            "de": "Die Auberginen auf dem Grill etwa 20 Minuten garen, dabei die Haut leicht ankohlen lassen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliatele a pezzi, senza pelarle, scartando solo il picciolo, e frullatele con la tahina, il succo di un limone, 50 g di olio e un pizzico di sale.",
+            "en": "Cut them into pieces without peeling, discarding only the stem, and blend with the tahini, the juice of a lemon, 50 g of oil and a pinch of salt.",
+            "fr": "Les couper en morceaux sans les peler, en ne retirant que le pédoncule, et les mixer avec le tahini, le jus d'un citron, 50 g d'huile et une pincée de sel.",
+            "de": "Ungeschält in Stücke schneiden, nur den Stiel entfernen, und mit Tahini, dem Saft einer Zitrone, 50 g Öl und einer Prise Salz pürieren."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Pulite i calamari, tagliateli sul fondo creando dei tagli per mezza lunghezza del calamaro dello spessore di circa 1/1,5 cm e cuoceteli con i loro ciuffi in un sacchetto s.v. per circa 15 min a 70 gradi nel roner o nel forno vapore.",
+            "en": "Clean the squid, score them at the bottom every 1–1.5 cm along half their length, and cook them with their tentacles in a sous-vide bag for about 15 min at 70 degrees in the sous-vide cooker or steam oven.",
+            "fr": "Nettoyer les calmars, les inciser à la base sur la moitié de leur longueur, tous les 1 à 1,5 cm environ, et les cuire avec leurs tentacules en sachet sous vide pendant environ 15 min à 70 degrés au thermoplongeur ou au four vapeur.",
+            "de": "Die Kalmare säubern, am unteren Ende über die halbe Länge im Abstand von etwa 1–1,5 cm einschneiden und mit den Tentakeln im Vakuumbeutel etwa 15 Min. bei 70 Grad im Sous-vide-Garer oder Dampfgarer garen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Scolateli e appoggiate i calamari ed i loro ciuffi su una griglia calda, con un pizzico di sale, per 1' circa per ogni lato o comunque fino a coloritura.",
+            "en": "Drain them and place the squid and tentacles on a hot grill with a pinch of salt, about 1 minute per side or until they take on color.",
+            "fr": "Les égoutter et poser les calmars et leurs tentacules sur un gril chaud, avec une pincée de sel, environ 1 minute de chaque côté ou jusqu'à ce qu'ils colorent.",
+            "de": "Abtropfen lassen und Kalmare samt Tentakeln mit einer Prise Salz auf einen heißen Grill legen, etwa 1 Minute pro Seite oder bis sie Farbe bekommen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Serviteli con la crema di melanzane, completando con fette di lime e foglioline di prezzemolo fritte e qualche ciuffo di valeriana.",
+            "en": "Serve with the eggplant cream, finishing with lime slices, small fried parsley leaves and a few sprigs of lamb's lettuce.",
+            "fr": "Les servir avec la crème d'aubergine, en complétant de rondelles de citron vert, de petites feuilles de persil frites et de quelques pousses de mâche.",
+            "de": "Mit der Auberginencreme servieren und mit Limettenscheiben, frittierten Petersilienblättchen und etwas Feldsalat vollenden."
+          }
+        }
+      ],
+      "tips": {
+        "it": "Note\nPorzioni: 4 persone",
+        "en": "Notes\nServings: 4 people",
+        "fr": "Notes\nPortions : 4 personnes",
+        "de": "Notizen\nPortionen: 4 Personen"
+      },
+      "wine": null,
+      "photos": [
+        "812327A5-C0E5-4845-B3C6-3AEF0C9A1C03.jpg"
+      ]
+    },
+    {
+      "id": "C6870059-4924-4768-8ACB-B93D2D869828",
+      "title": {
+        "it": "Semifreddo alla ricotta con cioccolato e arancia",
+        "en": "Ricotta semifreddo with chocolate and orange",
+        "fr": "Semifreddo à la ricotta, chocolat et orange",
+        "de": "Ricotta-Semifreddo mit Schokolade und Orange"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 12,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 200,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Albume pastorizzato",
+            "en": "Pasteurized egg white",
+            "fr": "Blanc d'œuf pasteurisé",
+            "de": "Pasteurisiertes Eiweiß"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 300,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Ricotta vaccina",
+            "en": "Cow's milk ricotta",
+            "fr": "Ricotta de vache",
+            "de": "Kuhmilchricotta"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 200,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Panna",
+            "en": "Cream",
+            "fr": "Crème",
+            "de": "Sahne"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 230,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Zucchero",
+            "en": "Sugar",
+            "fr": "Sucre",
+            "de": "Zucker"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Cioccolato fondente 100g in gocce",
+            "en": "Dark chocolate chips 100 g",
+            "fr": "Pépites de chocolat noir 100 g",
+            "de": "Zartbitter-Schokotropfen 100 g"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Arance candite 100g in pezzettini",
+            "en": "Candied orange 100 g, in small pieces",
+            "fr": "Oranges confites 100 g en petits morceaux",
+            "de": "Kandierte Orangen 100 g in kleinen Stücken"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Vaniglia 2 tt",
+            "en": "Vanilla, 2 pinches",
+            "fr": "Vanille, 2 pointes de couteau",
+            "de": "Vanille, 2 Messerspitzen"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Montare gli albumi pastorizzati, a metà montaggio aggiungere zucchero",
+            "en": "Whip the pasteurized egg whites, adding the sugar halfway through",
+            "fr": "Monter les blancs pasteurisés en ajoutant le sucre à mi-parcours",
+            "de": "Das pasteurisierte Eiweiß aufschlagen und nach der Hälfte der Zeit den Zucker zugeben"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Setacciare la ricotta e mischiarla con gocce di cioccolato e arance candite",
+            "en": "Sieve the ricotta and mix it with the chocolate chips and candied orange",
+            "fr": "Passer la ricotta au tamis et la mélanger avec les pépites de chocolat et les oranges confites",
+            "de": "Den Ricotta durch ein Sieb streichen und mit Schokotropfen und kandierten Orangen vermischen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Unire panna montata e meringa delicatamente",
+            "en": "Gently fold in the whipped cream and meringue",
+            "fr": "Incorporer délicatement la crème fouettée et la meringue",
+            "de": "Geschlagene Sahne und Meringue vorsichtig unterheben"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Mettere nelle formine",
+            "en": "Fill the molds",
+            "fr": "Remplir les moules",
+            "de": "In die Förmchen füllen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Abbattere in negativo",
+            "en": "Blast freeze",
+            "fr": "Surgeler en cellule",
+            "de": "Im Schockfroster tiefkühlen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Sformare su barella e mettere in freezer",
+            "en": "Unmold onto a tray and put in the freezer",
+            "fr": "Démouler sur plaque et mettre au congélateur",
+            "de": "Auf ein Blech stürzen und in den Gefrierschrank stellen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Ornare con buccette/arancia essicata/arancia candita/topping cioccolato e appoggiare su spennellata di cioccolato",
+            "en": "Decorate with zest, dried or candied orange or chocolate topping, and set on a brushstroke of chocolate",
+            "fr": "Décorer de zestes, d'orange séchée ou confite ou d'un nappage au chocolat et poser sur un trait de chocolat au pinceau",
+            "de": "Mit Schalenstreifen, getrockneter oder kandierter Orange oder Schokoladentopping verzieren und auf einen mit dem Pinsel gezogenen Schokoladenstrich setzen"
+          }
+        }
+      ],
+      "tips": {
+        "it": "Dose per 12 formine da 8 cm. ",
+        "en": "Makes 12 molds of 8 cm.",
+        "fr": "Pour 12 moules de 8 cm.",
+        "de": "Für 12 Förmchen à 8 cm."
+      },
+      "wine": null,
+      "photos": [
+        "03D16C3F-C211-4443-B486-B11F6652EDC9.jpg"
+      ]
+    },
+    {
+      "id": "109B4A43-9E65-407F-A612-E92B4419AED1",
+      "title": {
+        "it": "Caponata di melanzane",
+        "en": "Eggplant caponata",
+        "fr": "Caponata d'aubergines",
+        "de": "Auberginen-Caponata"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 20,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 1500,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Melanzane n° 5, circa",
+            "en": "Eggplants, about 5",
+            "fr": "Aubergines, environ 5",
+            "de": "Auberginen, etwa 5"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Salsa di pomodoro, g 700",
+            "en": "Tomato sauce, 700 g",
+            "fr": "Sauce tomate, 700 g",
+            "de": "Tomatensauce, 700 g"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Capperi sotto sale, gr 100",
+            "en": "Salt-packed capers, 100 g",
+            "fr": "Câpres au sel, 100 g",
+            "de": "Salzkapern, 100 g"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Sedano, gambi interi 5",
+            "en": "Celery, 5 whole stalks",
+            "fr": "Céleri, 5 branches entières",
+            "de": "Staudensellerie, 5 ganze Stangen"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olive verdi a pezzetti, gr 200 (utilizzare quelle denocciolate tagliate a metà)",
+            "en": "Green olives in pieces, 200 g (use pitted olives cut in half)",
+            "fr": "Olives vertes en morceaux, 200 g (des olives dénoyautées coupées en deux)",
+            "de": "Grüne Oliven in Stücken, 200 g (entsteinte, halbierte Oliven verwenden)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Aceto",
+            "en": "Vinegar",
+            "fr": "Vinaigre",
+            "de": "Essig"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Zucchero",
+            "en": "Sugar",
+            "fr": "Sucre",
+            "de": "Zucker"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olio per frittura",
+            "en": "Oil for frying",
+            "fr": "Huile de friture",
+            "de": "Frittieröl"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Porre da subito i capperi in acqua cambiandola ripetute volte per dissalarli bene, meglio dissalarli per 12 ore.",
+            "en": "Put the capers in water right away, changing it several times to desalt them well; ideally soak them for 12 hours.",
+            "fr": "Mettre tout de suite les câpres dans l'eau en la changeant plusieurs fois pour bien les dessaler ; l'idéal est de les dessaler 12 heures.",
+            "de": "Die Kapern sofort in Wasser legen und das Wasser mehrmals wechseln, damit sie gut entsalzen; am besten 12 Stunden wässern."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Preparare le melanzane, decapitandole dalla parte del grosso picciolo, lavarle, asciugarle e tagliarle a cubetti di due centimetri di lato, senza togliere la buccia.",
+            "en": "Prepare the eggplants: cut off the thick stem end, wash, dry and cut them into 2 cm cubes without peeling.",
+            "fr": "Préparer les aubergines : retirer la partie du gros pédoncule, les laver, les sécher et les couper en cubes de deux centimètres de côté, sans les peler.",
+            "de": "Die Auberginen vorbereiten: den dicken Stielansatz abschneiden, waschen, trocknen und ungeschält in Würfel von zwei Zentimetern Kantenlänge schneiden."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Prelevare la quantità occorrente per un ciclo di frittura e friggerli sin quando le parti bianche assumono un bel colore marrone; l'interno, però, deve restare chiaro e morbido.",
+            "en": "Take one frying batch at a time and fry until the white parts turn a nice brown; the inside, however, must stay pale and soft.",
+            "fr": "Prélever la quantité nécessaire pour une friture et frire jusqu'à ce que les parties blanches prennent une belle couleur brune ; l'intérieur doit cependant rester clair et moelleux.",
+            "de": "Jeweils eine Frittierportion nehmen und frittieren, bis die hellen Teile schön braun sind; das Innere soll aber hell und weich bleiben."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Disporre i cubetti fritti su carta da cucina, in modo da eliminare l'eccesso di olio assorbito nella frittura. Cambiare la carta almeno due volte per essere sicuri di aver asciugato le melanzane dall'olio al meglio.",
+            "en": "Spread the fried cubes on paper towels to absorb the excess oil. Change the paper at least twice to be sure the eggplant is as free of oil as possible.",
+            "fr": "Déposer les dés frits sur du papier absorbant pour éliminer l'excès d'huile. Changer le papier au moins deux fois pour être sûr d'avoir bien dégraissé les aubergines.",
+            "de": "Die frittierten Würfel auf Küchenpapier legen, damit überschüssiges Öl aufgesogen wird. Das Papier mindestens zweimal wechseln, damit die Auberginen möglichst entfettet sind."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliare il sedano a piccoli pezzi, utilizzando le coste pelate, e aggiungere un po' d'acqua e farlo cuocere ben coperto, sino a quando diventa sufficientemente morbido.",
+            "en": "Cut the celery into small pieces using the peeled stalks, add a little water and cook well covered until tender enough.",
+            "fr": "Couper le céleri en petits morceaux en utilisant les branches épluchées, ajouter un peu d'eau et le cuire bien couvert jusqu'à ce qu'il soit assez tendre.",
+            "de": "Den Sellerie in kleine Stücke schneiden (die geschälten Stangen verwenden), etwas Wasser hinzufügen und gut zugedeckt garen, bis er weich genug ist."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliare le olive snocciolate in una dimensione simile a quella del sedano.",
+            "en": "Cut the pitted olives to a size similar to the celery.",
+            "fr": "Couper les olives dénoyautées en morceaux de taille semblable à ceux du céleri.",
+            "de": "Die entsteinten Oliven in ähnlich große Stücke wie den Sellerie schneiden."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Preparare la salsa di pomodoro cuocendo fino ad ottenere una discreta densità. Non salare e non aggiungere olio.",
+            "en": "Cook the tomato sauce until fairly thick. Do not salt and do not add oil.",
+            "fr": "Préparer la sauce tomate en la faisant cuire jusqu'à ce qu'elle soit assez épaisse. Ne pas saler ni ajouter d'huile.",
+            "de": "Die Tomatensauce einkochen, bis sie recht dickflüssig ist. Nicht salzen und kein Öl hinzufügen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Unire alla salsa i capperi opportunamente dissalati e le olive verdi snocciolate e tagliate in pezzi ed il sedano scolato.",
+            "en": "Add the well-desalted capers, the pitted green olives cut into pieces and the drained celery to the sauce.",
+            "fr": "Ajouter à la sauce les câpres bien dessalées, les olives vertes dénoyautées coupées en morceaux et le céleri égoutté.",
+            "de": "Die gut entsalzenen Kapern, die entsteinten, in Stücke geschnittenen grünen Oliven und den abgetropften Sellerie zur Sauce geben."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Far cuocere per 5 minuti il tutto, controllando che alla fine la salsa sia ben amalgamata ma non troppo addensata.",
+            "en": "Cook everything for 5 minutes, making sure the sauce ends up well blended but not too thick.",
+            "fr": "Cuire le tout 5 minutes en veillant à ce que la sauce soit bien liée sans être trop épaisse.",
+            "de": "Alles 5 Minuten kochen; am Ende soll die Sauce gut gebunden, aber nicht zu dick sein."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Aggiungere le melanzane fritte e ben asciugate.",
+            "en": "Add the fried, well-drained eggplant.",
+            "fr": "Ajouter les aubergines frites et bien dégraissées.",
+            "de": "Die frittierten, gut abgetropften Auberginen hinzufügen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Lasciar cuocere 1-2 minuti, non più.",
+            "en": "Cook for 1–2 minutes, no longer.",
+            "fr": "Laisser cuire 1 à 2 minutes, pas plus.",
+            "de": "1–2 Minuten kochen lassen, nicht länger."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Controllare il sale e poi sciogliere in una tazzina da caffè piena di aceto bianco un cucchiaio e mezzo da tavola di zucchero, mescolarlo sino a completa soluzione e versarlo nella salsa.",
+            "en": "Check the salt, then dissolve a tablespoon and a half of sugar in an espresso cup full of white vinegar, stir until completely dissolved and pour into the sauce.",
+            "fr": "Vérifier le sel, puis dissoudre une cuillère à soupe et demie de sucre dans une tasse à café remplie de vinaigre blanc, remuer jusqu'à dissolution complète et verser dans la sauce.",
+            "de": "Salz prüfen, dann in einer mit weißem Essig gefüllten Espressotasse eineinhalb Esslöffel Zucker vollständig auflösen und in die Sauce gießen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Controllare che l'agrodolce sia al giusto punto.",
+            "en": "Check that the sweet and sour balance is right.",
+            "fr": "Vérifier que l'aigre-doux est juste.",
+            "de": "Prüfen, ob das Süßsaure stimmt."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Mescolare ripetutamente e con delicatezza e aggiungere il basilico spezzettato, in modo da distribuire uniformemente la salsa.",
+            "en": "Stir gently several times and add the torn basil so the sauce is evenly distributed.",
+            "fr": "Mélanger plusieurs fois avec délicatesse et ajouter le basilic déchiré, de façon à répartir uniformément la sauce.",
+            "de": "Mehrmals behutsam umrühren und das zerzupfte Basilikum hinzufügen, damit sich die Sauce gleichmäßig verteilt."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Mettere il tutto a riposare.",
+            "en": "Leave it all to rest.",
+            "fr": "Laisser reposer le tout.",
+            "de": "Alles ruhen lassen."
+          }
+        }
+      ],
+      "tips": {
+        "it": "Porzioni: 20 persone\nPer le quantità: il sedano a tocchetti, le olive e i capperi siano volumetricamente in ugual misura ed in totale un terzo della quantità dei tocchetti di melanzana fritti\nLa proporzione per l'agrodolce è di 1 di zucchero e 3 di aceto bianco\nQuesta pietanza ha bisogno di una mezza giornata per essere pronta al consumo\nVa mangiata a temperatura ambiente\nResiste due o tre giorni in frigorifero\nSe usata come entrée porla in ciotoline su tagliere ed ornare con foglia di basilico. Servire insieme a sfoglie di pane carrè appiattito, mezzo arrotolato sulla forma di un cannolo e tostato\nIl nome \"caponata\" sembra che nasca dalla somiglianza che ha questa pietanza con l'apparecchio del condimento di un pesce tagliato a pezzi e fritto, la lampuga, che in siciliano si chiama \"capone\". È un piatto tipicamente palermitano, molto gustoso. Nella caponata di melanzane queste ultime sostituiscono il pesce, dando luogo ad uno squisitissimo piatto in grado di rivestire, secondo le necessità, il ruolo di antipasto, contorno, o addirittura di secondo a sé stante.",
+        "en": "Servings: 20 people\nQuantities: the diced celery, olives and capers should be equal in volume and together make up a third of the fried eggplant cubes\nThe sweet and sour ratio is 1 part sugar to 3 parts white vinegar\nThis dish needs half a day before it is ready to eat\nIt is eaten at room temperature\nIt keeps two or three days in the fridge\nAs a starter, serve it in small bowls on a board, garnished with a basil leaf, with flattened sandwich bread slices half-rolled into a cannolo shape and toasted\nThe name \"caponata\" seems to come from the dish's resemblance to the way a fish cut into pieces and fried was dressed: the mahi-mahi, called \"capone\" in Sicilian. It is a typical, very tasty dish from Palermo. In eggplant caponata the eggplant replaces the fish, giving a delicious dish that can serve, as needed, as a starter, a side dish or even a main course in its own right.",
+        "fr": "Portions : 20 personnes\nQuantités : le céleri en morceaux, les olives et les câpres doivent être en volume égal, et au total un tiers de la quantité de dés d'aubergine frits\nPour l'aigre-doux, la proportion est de 1 de sucre pour 3 de vinaigre blanc\nCe plat a besoin d'une demi-journée de repos pour être prêt\nIl se mange à température ambiante\nIl se garde deux ou trois jours au réfrigérateur\nEn entrée, la servir dans de petits bols sur une planche, décorée d'une feuille de basilic, avec des tranches de pain de mie aplaties, roulées à demi en forme de cannolo et grillées\nLe nom « caponata » viendrait de la ressemblance de ce plat avec l'assaisonnement d'un poisson coupé en morceaux et frit, la coryphène, appelée « capone » en sicilien. C'est un plat typique de Palerme, très savoureux. Dans la caponata, les aubergines remplacent le poisson et donnent un plat délicieux qui peut servir, selon les besoins, d'entrée, d'accompagnement ou même de plat principal.",
+        "de": "Portionen: 20 Personen\nMengen: Selleriestücke, Oliven und Kapern sollen volumenmäßig gleich viel sein und zusammen ein Drittel der frittierten Auberginenwürfel ausmachen\nFür das Süßsaure gilt: 1 Teil Zucker auf 3 Teile weißen Essig\nDas Gericht braucht einen halben Tag, bis es servierfertig ist\nEs wird bei Raumtemperatur gegessen\nIm Kühlschrank hält es zwei bis drei Tage\nAls Vorspeise in Schälchen auf einem Brett servieren, mit einem Basilikumblatt garniert, dazu flach gerollte, halb zu einer Cannolo-Form gerollte und geröstete Toastbrotscheiben\nDer Name „Caponata“ kommt wohl daher, dass das Gericht der Zubereitung eines in Stücke geschnittenen und frittierten Fisches ähnelt, der Goldmakrele, auf Sizilianisch „Capone“. Es ist ein typisches, sehr schmackhaftes Gericht aus Palermo. In der Auberginen-Caponata ersetzen die Auberginen den Fisch – ein köstliches Gericht, das je nach Bedarf als Vorspeise, Beilage oder sogar als eigenständiger Hauptgang dient."
+      },
+      "wine": null,
+      "photos": [
+        "1FC5B474-7CA0-41DA-B378-1ABC1F39F7E7.jpg"
+      ]
+    },
+    {
+      "id": "FF3C2E0F-4716-4909-9AC4-D6AF2B16934B",
+      "title": {
+        "it": "Pasta alla Norma",
+        "en": "Pasta alla Norma",
+        "fr": "Pâtes alla Norma",
+        "de": "Pasta alla Norma"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 4,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 10,
+          "unit": "foglie",
+          "scalable": true,
+          "name": {
+            "it": "Basilico fresco",
+            "en": "Fresh basil",
+            "fr": "Basilic frais",
+            "de": "Frisches Basilikum"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 2,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Melanzane, (dipendentemente dalla misura, calcolare 6 fette di melanzana a testa), calcolare 6 fette di melanzana a testa)",
+            "en": "Eggplants (depending on size, allow 6 slices of eggplant per person)",
+            "fr": "Aubergines (selon la taille, compter 6 tranches d'aubergine par personne)",
+            "de": "Auberginen (je nach Größe 6 Scheiben pro Person rechnen)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olio extravergine di oliva",
+            "en": "Extra virgin olive oil",
+            "fr": "Huile d'olive extra vierge",
+            "de": "Natives Olivenöl extra"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 800,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Pomodori pelati",
+            "en": "Peeled tomatoes",
+            "fr": "Tomates pelées",
+            "de": "Geschälte Tomaten"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 200,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Ricotta infornata",
+            "en": "Baked ricotta",
+            "fr": "Ricotta au four",
+            "de": "Gebackener Ricotta"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": false,
+          "name": {
+            "it": "Sale grosso",
+            "en": "Coarse salt",
+            "fr": "Gros sel",
+            "de": "Grobes Salz"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "spicchio",
+          "scalable": true,
+          "name": {
+            "it": "Aglio",
+            "en": "Garlic",
+            "fr": "Ail",
+            "de": "Knoblauch"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olio di semi",
+            "en": "Vegetable oil",
+            "fr": "Huile végétale",
+            "de": "Pflanzenöl"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Soffriggere in una capace pentola uno spicchio d'aglio tritato finemente in poco olio",
+            "en": "In a large pot, sauté a finely chopped garlic clove in a little oil",
+            "fr": "Dans une grande casserole, faire revenir dans un peu d'huile une gousse d'ail finement hachée",
+            "de": "In einem großen Topf eine fein gehackte Knoblauchzehe in wenig Öl anschwitzen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Aggiungere i pomodori pelati",
+            "en": "Add the peeled tomatoes",
+            "fr": "Ajouter les tomates pelées",
+            "de": "Die geschälten Tomaten zugeben"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Salare il sugo e portarlo a completa cottura controllando che raggiunga una corretta densità (non troppo liquido)",
+            "en": "Salt the sauce and cook it fully, making sure it reaches the right thickness (not too runny)",
+            "fr": "Saler la sauce et la cuire complètement en veillant à ce qu'elle ait la bonne densité (pas trop liquide)",
+            "de": "Die Sauce salzen und fertig kochen, bis sie die richtige Dicke hat (nicht zu flüssig)"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Lavare, spuntare e sbucciare a strisce le melanzane fresche",
+            "en": "Wash and trim the fresh eggplants and peel them in stripes",
+            "fr": "Laver les aubergines fraîches, retirer les extrémités et les peler en bandes",
+            "de": "Die frischen Auberginen waschen, die Enden abschneiden und streifenweise schälen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Affettarle sottilmente (affettatrice a 5)",
+            "en": "Slice them thinly (slicer at setting 5)",
+            "fr": "Les trancher finement (trancheuse en position 5)",
+            "de": "Dünn aufschneiden (Schneidemaschine Stufe 5)"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Friggere le fettine di melanzana con abbondante olio di semi",
+            "en": "Fry the eggplant slices in plenty of vegetable oil",
+            "fr": "Frire les tranches d'aubergine dans beaucoup d'huile végétale",
+            "de": "Die Auberginenscheiben in reichlich Pflanzenöl frittieren"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "A cottura ultimata asciugarle molto bene ripetutamente su carta assorbente per eliminare l'olio in eccesso",
+            "en": "Once cooked, dry them very well, several times, on paper towels to remove the excess oil",
+            "fr": "Une fois cuites, les sécher très soigneusement plusieurs fois sur du papier absorbant pour éliminer l'excès d'huile",
+            "de": "Danach mehrmals gründlich auf Küchenpapier abtropfen lassen, um überschüssiges Öl zu entfernen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Cuocere in abbondante acqua salata la pasta nel formato scelto",
+            "en": "Cook the pasta of your choice in plenty of salted water",
+            "fr": "Cuire les pâtes choisies dans beaucoup d'eau salée",
+            "de": "Die gewählten Nudeln in reichlich Salzwasser kochen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliare i dischi di melanzane fritte in strisce sottili e aggiungerli al sugo di pomodoro lasciando alcune fette intere (calcolarne tre per ogni piatto) per la decorazione finale",
+            "en": "Cut the fried eggplant discs into thin strips and add them to the tomato sauce, keeping some slices whole (three per plate) for the final garnish",
+            "fr": "Couper les disques d'aubergine frite en fines lanières et les ajouter à la sauce tomate, en gardant quelques tranches entières (trois par assiette) pour la décoration finale",
+            "de": "Die frittierten Auberginenscheiben in feine Streifen schneiden und zur Tomatensauce geben; einige ganze Scheiben (drei pro Teller) für die Dekoration aufheben"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Aggiungere al sugo preparato con dentro le melanzane le foglie di basilico spezzate",
+            "en": "Add the torn basil leaves to the sauce with the eggplant",
+            "fr": "Ajouter à la sauce aux aubergines les feuilles de basilic déchirées",
+            "de": "Die zerzupften Basilikumblätter zur Sauce mit den Auberginen geben"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "A cottura ultimata, scolare la pasta ed unirla al condimento in padella mescolando per amalgamare i sapori",
+            "en": "When the pasta is done, drain it and toss it with the sauce in the pan to blend the flavors",
+            "fr": "Une fois cuites, égoutter les pâtes et les mélanger à la sauce dans la poêle pour bien lier les saveurs",
+            "de": "Die fertigen Nudeln abgießen und in der Pfanne mit der Sauce vermengen, damit sich die Aromen verbinden"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Comporre i piatti suddividendo le fette di melanzana, mettendone una sotto e due sopra la pasta, grattuggiare abbondantemente la ricotta infornata e ornare con una punta di basilico fresco ciascun piatto e con un giro leggero d'olio evo",
+            "en": "Plate, dividing the eggplant slices, one under and two on top of the pasta, grate plenty of baked ricotta over and garnish each plate with a sprig of fresh basil and a light drizzle of olive oil",
+            "fr": "Dresser les assiettes en répartissant les tranches d'aubergine, une sous les pâtes et deux dessus, râper généreusement la ricotta au four et décorer chaque assiette d'une pointe de basilic frais et d'un léger filet d'huile d'olive",
+            "de": "Anrichten: die Auberginenscheiben verteilen, eine unter und zwei auf die Nudeln, reichlich gebackenen Ricotta darüberreiben und jeden Teller mit einer Basilikumspitze und etwas Olivenöl garnieren"
+          }
+        }
+      ],
+      "tips": {
+        "it": "Note\nPorzioni: 4 persone\nFormato pasta: elicoidali o spaghetti grossi\nLa pasta alla Norma è originaria di Catania, in Sicilia, e pare che il suo nome sia stato dato per la prima volta tra la fine dell'800 e gli inizi del '900 da Nino Martoglio, commediografo catanese. Martoglio definì infatti questa pietanza una \"Norma\", paragonando la sua bontà all'omonima opera lirica di Bellini. A Catania si usa la ricotta salata, nel messinese quella infornata.",
+        "en": "Notes\nServings: 4 people\nPasta shape: eliche or thick spaghetti\nPasta alla Norma comes from Catania in Sicily, and it seems its name was first given in the late 1800s or early 1900s by Nino Martoglio, a playwright from Catania. Martoglio called the dish a \"Norma\", comparing its excellence to Bellini's opera of the same name. In Catania ricotta salata is used; around Messina, baked ricotta.",
+        "fr": "Notes\nPortions : 4 personnes\nFormat de pâtes : eliche ou gros spaghetti\nLes pâtes alla Norma viennent de Catane, en Sicile ; leur nom leur aurait été donné pour la première fois à la fin du XIXe ou au début du XXe siècle par Nino Martoglio, dramaturge de Catane. Martoglio qualifia ce plat de « Norma », comparant sa bonté à l'opéra du même nom de Bellini. À Catane on utilise la ricotta salata, dans la région de Messine la ricotta au four.",
+        "de": "Notizen\nPortionen: 4 Personen\nNudelsorte: Eliche oder dicke Spaghetti\nDie Pasta alla Norma stammt aus Catania auf Sizilien; ihren Namen soll ihr Ende des 19. oder Anfang des 20. Jahrhunderts der Komödiendichter Nino Martoglio aus Catania gegeben haben. Er nannte das Gericht eine „Norma“ und verglich seine Güte mit Bellinis gleichnamiger Oper. In Catania verwendet man Ricotta salata, in der Gegend von Messina gebackenen Ricotta."
+      },
+      "wine": null,
+      "photos": [
+        "F44264C0-626B-404D-A9FA-388A8D5B35A6.jpg"
+      ]
+    },
+    {
+      "id": "8FA7B6AC-E487-4356-BD80-0DBCF3A4B58A",
+      "title": {
+        "it": "Il nostro involtino alla messinese",
+        "en": "Our Messina-style roll",
+        "fr": "Notre roulade à la messinoise",
+        "de": "Unsere Roulade nach Art von Messina"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 4,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 600,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "fettine sottili di carne (girello, controfiletto)",
+            "en": "thin slices of beef (eye of round, sirloin)",
+            "fr": "fines tranches de viande (gîte, faux-filet)",
+            "de": "dünne Fleischscheiben (Nuss, Roastbeef)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 150,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Pangrattato",
+            "en": "Breadcrumbs",
+            "fr": "Chapelure",
+            "de": "Semmelbrösel"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "cucchiai",
+          "scalable": true,
+          "name": {
+            "it": "Parmigiano grattuggiato",
+            "en": "Grated parmesan",
+            "fr": "Parmesan râpé",
+            "de": "Geriebener Parmesan"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 120,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "Provola dolce",
+            "en": "Mild provola",
+            "fr": "Provola douce",
+            "de": "Milde Provola"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "spicchio",
+          "scalable": true,
+          "name": {
+            "it": "Aglio",
+            "en": "Garlic",
+            "fr": "Ail",
+            "de": "Knoblauch"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Prezzemolo",
+            "en": "Parsley",
+            "fr": "Persil",
+            "de": "Petersilie"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "manciata di capperi",
+            "en": "handful of capers",
+            "fr": "une poignée de câpres",
+            "de": "eine Handvoll Kapern"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "Olio evo",
+            "en": "Extra virgin olive oil",
+            "fr": "Huile d'olive extra vierge",
+            "de": "Natives Olivenöl extra"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Posizionare le fettine una accanto all'altra formando un rettangolo per ciascuna persona",
+            "en": "Lay the slices side by side to form a rectangle for each person",
+            "fr": "Disposer les tranches côte à côte de façon à former un rectangle pour chaque personne",
+            "de": "Die Scheiben nebeneinanderlegen, sodass für jede Person ein Rechteck entsteht"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Ungere con un pennello di olio",
+            "en": "Brush with oil",
+            "fr": "Les huiler au pinceau",
+            "de": "Mit dem Pinsel mit Öl bestreichen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Stendere il pangrattato aromatizzato con il formaggio grattuggiato, l'aglio, i capperi tagliati finissimi",
+            "en": "Spread over the breadcrumbs flavored with grated cheese, garlic and very finely chopped capers",
+            "fr": "Étaler la chapelure parfumée au fromage râpé, à l'ail et aux câpres très finement hachées",
+            "de": "Die mit geriebenem Käse, Knoblauch und sehr fein gehackten Kapern gewürzten Semmelbrösel verteilen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Posizionare dei piccolissimi pezzettini di provola ubiquitariamente",
+            "en": "Dot tiny pieces of provola all over",
+            "fr": "Répartir partout de tout petits morceaux de provola",
+            "de": "Überall winzige Provola-Stückchen verteilen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Arrotolare l'involtino su un bastoncino di legno unto",
+            "en": "Roll the meat around a greased wooden stick",
+            "fr": "Rouler la roulade sur un bâtonnet en bois huilé",
+            "de": "Die Roulade um ein geöltes Holzstäbchen rollen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Rigirare tutto l'involtino nel pangrattato condito",
+            "en": "Roll the whole roll in the seasoned breadcrumbs",
+            "fr": "Rouler toute la roulade dans la chapelure assaisonnée",
+            "de": "Die ganze Roulade in den gewürzten Semmelbröseln wälzen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Cuocere al forno o sulla griglia o in padella antiaderente",
+            "en": "Cook in the oven, on the grill or in a nonstick pan",
+            "fr": "Cuire au four, sur le gril ou à la poêle antiadhésive",
+            "de": "Im Ofen, auf dem Grill oder in einer beschichteten Pfanne garen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Sfilare la carne dal bastoncino e tagliare in modo da ottenere dei pezzetti con taglio obliquo da una parte e taglio diritto dall'altra",
+            "en": "Slide the meat off the stick and cut it into pieces, diagonal on one side and straight on the other",
+            "fr": "Retirer la viande du bâtonnet et la couper en morceaux avec une coupe en biais d'un côté et droite de l'autre",
+            "de": "Das Fleisch vom Stäbchen ziehen und in Stücke schneiden, auf einer Seite schräg, auf der anderen gerade"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Appoggiarli con la parte diritta sul piatto intervallando con pomodorini confit o arrostiti e rucola",
+            "en": "Stand them on the plate on the straight side, alternating with confit or roasted cherry tomatoes and arugula",
+            "fr": "Les poser sur l'assiette côté droit en dessous, en alternant avec des tomates cerises confites ou rôties et de la roquette",
+            "de": "Mit der geraden Seite nach unten auf den Teller stellen, abwechselnd mit konfierten oder gerösteten Kirschtomaten und Rucola"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Accompagnare con verdure alla griglia",
+            "en": "Serve with grilled vegetables",
+            "fr": "Accompagner de légumes grillés",
+            "de": "Mit gegrilltem Gemüse servieren"
+          }
+        }
+      ],
+      "tips": {
+        "it": "Dosi per 4 persone",
+        "en": "Serves 4",
+        "fr": "Pour 4 personnes",
+        "de": "Für 4 Personen"
+      },
+      "wine": null,
+      "photos": [
+        "C98CA092-3D40-4562-BDD4-7C55F43044FF.jpg",
+        "F27B83EF-3787-4B03-BE2B-586C33E733E6.jpg"
+      ]
+    },
+    {
+      "id": "ADA778B3-1C03-41D3-9E16-8548948999D7",
+      "title": {
+        "it": "Cannoli siciliani",
+        "en": "Sicilian cannoli",
+        "fr": "Cannoli siciliens",
+        "de": "Sizilianische Cannoli"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 4,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 250,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "farina",
+            "en": "flour",
+            "fr": "farine",
+            "de": "Mehl"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 0.8571428571428571,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "zucchero",
+            "en": "sugar",
+            "fr": "sucre",
+            "de": "Zucker"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 50,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "strutto",
+            "en": "lard",
+            "fr": "saindoux",
+            "de": "Schmalz"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "uovo intero",
+            "en": "whole egg",
+            "fr": "œuf entier",
+            "de": "ganzes Ei"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 70,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "malvasia/marsala meno 7",
+            "en": "Malvasia or Marsala minus 7",
+            "fr": "malvoisie ou marsala moins 7",
+            "de": "Malvasia oder Marsala abzüglich 7"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "pizzichino di sale",
+            "en": "small pinch of salt",
+            "fr": "petite pincée de sel",
+            "de": "kleine Prise Salz"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "punta di cacao",
+            "en": "a pinch of cocoa",
+            "fr": "une pointe de cacao",
+            "de": "eine Messerspitze Kakao"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "punta di cannella",
+            "en": "a pinch of cinnamon",
+            "fr": "une pointe de cannelle",
+            "de": "eine Messerspitze Zimt"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Impastare in planetaria",
+            "en": "Knead in the stand mixer",
+            "fr": "Pétrir au robot pâtissier",
+            "de": "In der Küchenmaschine kneten"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Lasciar riposare un'oretta",
+            "en": "Let rest for about an hour",
+            "fr": "Laisser reposer environ une heure",
+            "de": "Etwa eine Stunde ruhen lassen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Stendere con sfogliatrice a 5",
+            "en": "Roll out with the dough sheeter at setting 5",
+            "fr": "Abaisser au laminoir en position 5",
+            "de": "Mit der Ausrollmaschine auf Stufe 5 ausrollen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Coppare tondo",
+            "en": "Cut out circles",
+            "fr": "Découper des disques",
+            "de": "Runde Scheiben ausstechen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Ungere tubicini in metallo e avvolgere intorno chiudendo le estremità del cerchio con acqua mista a albume (con pennello)",
+            "en": "Grease metal tubes, wrap the circles around them and seal the edges with water mixed with egg white (with a brush)",
+            "fr": "Huiler des tubes en métal, y enrouler les disques et souder les bords avec de l'eau mélangée à du blanc d'œuf (au pinceau)",
+            "de": "Metallröhrchen einfetten, die Scheiben darum wickeln und die Ränder mit Wasser und Eiweiß (mit dem Pinsel) verkleben"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Mettere in abbattitore qualche minuto",
+            "en": "Put in the blast chiller for a few minutes",
+            "fr": "Passer quelques minutes en cellule de refroidissement",
+            "de": "Einige Minuten in den Schockkühler stellen"
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Friggere in olio a 170 gradi",
+            "en": "Fry in oil at 170 degrees",
+            "fr": "Frire dans l'huile à 170 degrés",
+            "de": "In Öl bei 170 Grad frittieren"
+          }
+        }
+      ],
+      "tips": {
+        "it": "Note\nAltra ricetta: 1 kg farina w 280, 100 g zucchero, 100 g strutto, 20 g sale, 340 g malvasia meno 20 g alcool (o liquidi in più). Velocità bassa 15 min. Faccio pieghe spesse con sfogliatrice arrotolo e riposo 30 min.",
+        "en": "Notes\nAnother recipe: 1 kg W 280 flour, 100 g sugar, 100 g lard, 20 g salt, 340 g Malvasia minus 20 g alcohol (or extra liquid). Low speed for 15 min. I make thick folds with the dough sheeter, roll up and rest 30 min.",
+        "fr": "Notes\nAutre recette : 1 kg de farine W 280, 100 g de sucre, 100 g de saindoux, 20 g de sel, 340 g de malvoisie moins 20 g d'alcool (ou davantage de liquide). Vitesse lente 15 min. Je fais des plis épais au laminoir, je roule et laisse reposer 30 min.",
+        "de": "Notizen\nAnderes Rezept: 1 kg Mehl W 280, 100 g Zucker, 100 g Schmalz, 20 g Salz, 340 g Malvasia abzüglich 20 g Alkohol (oder mehr Flüssigkeit). 15 Min. auf niedriger Stufe kneten. Mit der Ausrollmaschine dick falten, aufrollen und 30 Min. ruhen lassen."
+      },
+      "wine": null,
+      "photos": [
+        "710E9582-C2D4-4BDB-86F1-3723C057C8C2.jpg"
+      ]
+    },
+    {
+      "id": "E5AEBE6B-2E1C-4089-8372-0E9313BCB95B",
+      "title": {
+        "it": "Bowl con riso basmati, pollo, melanzane e mandorle",
+        "en": "Basmati rice bowl with chicken, aubergine and almonds",
+        "fr": "Bowl de riz basmati, poulet, aubergine et amandes",
+        "de": "Bowl mit Basmatireis, Hähnchen, Aubergine und Mandeln"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 1,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 100,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "riso basmati preparato",
+            "en": "cooked basmati rice",
+            "fr": "riz basmati cuit",
+            "de": "gekochter Basmatireis"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": false,
+          "name": {
+            "it": "olio extravergine di oliva, quanto basta",
+            "en": "extra virgin olive oil, as needed",
+            "fr": "huile d'olive vierge extra, selon besoin",
+            "de": "natives Olivenöl extra, nach Bedarf"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "melanzana, a cubetti",
+            "en": "aubergine, diced",
+            "fr": "aubergine, en dés",
+            "de": "Aubergine, gewürfelt"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "pesto di olio e basilico",
+            "en": "oil and basil pesto",
+            "fr": "pesto d'huile et basilic",
+            "de": "Öl-Basilikum-Pesto"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": false,
+          "name": {
+            "it": "prezzemolo e menta freschi, quanto basta",
+            "en": "fresh parsley and mint, as needed",
+            "fr": "persil et menthe frais, selon besoin",
+            "de": "frische Petersilie und Minze, nach Bedarf"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "manciata di mandorle a lamelle lievemente tostate",
+            "en": "handful of lightly toasted flaked almonds",
+            "fr": "poignée d'amandes effilées légèrement grillées",
+            "de": "Handvoll leicht geröstete Mandelblättchen"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": false,
+          "name": {
+            "it": "sale e pepe, quanto basta",
+            "en": "salt and pepper, to taste",
+            "fr": "sel et poivre, selon goût",
+            "de": "Salz und Pfeffer, nach Geschmack"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 80,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "petto di pollo a strisce cotto, circa",
+            "en": "cooked chicken breast strips, about",
+            "fr": "blanc de poulet cuit en lanières, environ",
+            "de": "gegarte Hähnchenbruststreifen, etwa"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "succo di limone",
+            "en": "lemon juice",
+            "fr": "jus de citron",
+            "de": "Zitronensaft"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Lavare la melanzana, eliminare le estremità e tagliarla a fette spesse 2 centimetri, quindi a cubetti.",
+            "en": "Wash the aubergine, trim the ends and cut it into 2 cm thick slices, then into cubes.",
+            "fr": "Laver l'aubergine, retirer les extrémités et la couper en tranches de 2 cm, puis en dés.",
+            "de": "Die Aubergine waschen, die Enden entfernen, in 2 cm dicke Scheiben und dann in Würfel schneiden."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Prendere i petti di pollo congelati circa 800 g e prima che scongelino del tutto tagliarli a striscioline di circa 1,5 cm di larghezza e 3 cm di lunghezza. Inserirli in un sacchetto dal sottovuoto per cottura con rosmarino, poco olio e 8 fettine di limone. Metterlo nel roner a 60 gradi per 40 min. Mettere nell'abbattitore in positivo a 3 gradi e conservare in un contenitore chiuso.",
+            "en": "Take about 800 g of frozen chicken breasts and, before they fully thaw, cut them into strips about 1.5 cm wide and 3 cm long. Put them in a vacuum cooking bag with rosemary, a little oil and 8 lemon slices. Cook in a sous-vide water bath at 60 °C for 40 min. Chill quickly to 3 °C and keep in a closed container.",
+            "fr": "Prendre environ 800 g de blancs de poulet surgelés et, avant qu'ils ne décongèlent complètement, les couper en lanières d'environ 1,5 cm de large et 3 cm de long. Les mettre dans un sachet de cuisson sous vide avec du romarin, un peu d'huile et 8 rondelles de citron. Cuire sous vide à 60 °C pendant 40 min. Refroidir rapidement à 3 °C et conserver dans une boîte fermée.",
+            "de": "Etwa 800 g gefrorene Hähnchenbrust nehmen und, bevor sie ganz aufgetaut ist, in etwa 1,5 cm breite und 3 cm lange Streifen schneiden. Mit Rosmarin, etwas Öl und 8 Zitronenscheiben in einen Vakuumbeutel geben. Im Sous-vide-Bad bei 60 °C 40 Min. garen. Schnell auf 3 °C abkühlen und in einem geschlossenen Behälter aufbewahren."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Scaldare il riso a microonde 1 min. direttamente nel piatto di servizio.",
+            "en": "Warm the rice in the microwave for 1 min directly in the serving bowl.",
+            "fr": "Réchauffer le riz au micro-ondes 1 min directement dans l'assiette de service.",
+            "de": "Den Reis 1 Min. direkt im Servierteller in der Mikrowelle erwärmen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Stemperare 1 cucchiaino del pesto di basilico in una ciotolina con un goccio di limone e olio. Condire il riso con il pesto di basilico mischiando bene.",
+            "en": "Loosen 1 teaspoon of basil pesto in a small bowl with a drop of lemon and oil. Dress the rice with the pesto, mixing well.",
+            "fr": "Délayer 1 cuillère à café de pesto de basilic dans un petit bol avec un filet de citron et d'huile. Assaisonner le riz avec le pesto en mélangeant bien.",
+            "de": "1 Teelöffel Basilikumpesto in einer kleinen Schale mit etwas Zitrone und Öl verrühren. Den Reis damit anmachen und gut mischen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Prelevare dal contenitore del pollo circa 80 g di pollo a strisce e farle saltare in padella salando e con un goccio di olio al rosmarino fino a colorirle bene.",
+            "en": "Take about 80 g of chicken strips from the container and sauté them in a pan with salt and a drop of rosemary oil until nicely browned.",
+            "fr": "Prélever environ 80 g de lanières de poulet et les faire sauter à la poêle, salées, avec un filet d'huile au romarin jusqu'à ce qu'elles soient bien dorées.",
+            "de": "Etwa 80 g Hähnchenstreifen aus dem Behälter nehmen und in der Pfanne mit Salz und etwas Rosmarinöl schön braun anbraten."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Far friggere a 140 gradi 10 cubetti di melanzana salata e scolarle bene.",
+            "en": "Fry 10 cubes of salted aubergine at 140 °C and drain them well.",
+            "fr": "Faire frire 10 dés d'aubergine salée à 140 °C et bien les égoutter.",
+            "de": "10 gesalzene Auberginenwürfel bei 140 °C frittieren und gut abtropfen lassen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Impiattare con il riso sotto, sopra il pollo e le melanzane ben distribuiti. Decorare con le mandorle leggermente tostate, foglioline di prezzemolo e menta e irrorare con olio.",
+            "en": "Plate the rice at the bottom with the chicken and aubergine spread on top. Garnish with the lightly toasted almonds, parsley and mint leaves and drizzle with oil.",
+            "fr": "Dresser le riz au fond, avec le poulet et l'aubergine bien répartis dessus. Décorer avec les amandes légèrement grillées, des feuilles de persil et de menthe, et arroser d'huile.",
+            "de": "Den Reis unten anrichten, Hähnchen und Aubergine gleichmäßig darauf verteilen. Mit den leicht gerösteten Mandeln, Petersilien- und Minzblättchen garnieren und mit Öl beträufeln."
+          }
+        }
+      ],
+      "tips": {
+        "it": "Si può preparare in anticipo: il riso basmati, il pesto di olio e basilico, le mandorle tostate e le melanzane a dadini.",
+        "en": "You can prepare ahead: the basmati rice, the oil and basil pesto, the toasted almonds and the diced aubergine.",
+        "fr": "À préparer à l'avance : le riz basmati, le pesto d'huile et basilic, les amandes grillées et l'aubergine en dés.",
+        "de": "Im Voraus zubereiten lassen sich: der Basmatireis, das Öl-Basilikum-Pesto, die gerösteten Mandeln und die gewürfelte Aubergine."
+      },
+      "photos": [
+        "E5AEBE6B-2E1C-4089-8372-0E9313BCB95B.jpg"
+      ]
+    },
+    {
+      "id": "595FF907-04D4-49C2-9244-D2C84FD1324C",
+      "title": {
+        "it": "Pasta alla Norma",
+        "en": "Pasta alla Norma",
+        "fr": "Pâtes alla Norma",
+        "de": "Pasta alla Norma"
+      },
+      "summary": {
+        "it": "Nata a Catania: il commediografo Nino Martoglio la chiamò «una Norma», paragonandone la bontà all'opera di Bellini.",
+        "en": "Born in Catania: the playwright Nino Martoglio called it “a Norma”, comparing its goodness to Bellini's opera.",
+        "fr": "Née à Catane : le dramaturge Nino Martoglio l'appela « une Norma », comparant sa saveur à l'opéra de Bellini.",
+        "de": "Aus Catania: Der Dramatiker Nino Martoglio nannte sie „eine Norma“ und verglich ihren Geschmack mit Bellinis Oper."
+      },
+      "servings": 4,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 320,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "pasta (elicoidali o spaghetti grossi)",
+            "en": "pasta (elicoidali or thick spaghetti)",
+            "fr": "pâtes (elicoidali ou gros spaghetti)",
+            "de": "Pasta (Elicoidali oder dicke Spaghetti)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 10,
+          "unit": "foglie",
+          "scalable": true,
+          "name": {
+            "it": "basilico fresco",
+            "en": "fresh basil",
+            "fr": "basilic frais",
+            "de": "frisches Basilikum"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 2,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "melanzane (secondo la misura: 6 fette a testa)",
+            "en": "aubergines (depending on size: 6 slices per person)",
+            "fr": "aubergines (selon la taille : 6 tranches par personne)",
+            "de": "Auberginen (je nach Größe: 6 Scheiben pro Person)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "olio extravergine di oliva",
+            "en": "extra virgin olive oil",
+            "fr": "huile d'olive vierge extra",
+            "de": "natives Olivenöl extra"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 800,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "pomodori pelati",
+            "en": "peeled tomatoes",
+            "fr": "tomates pelées",
+            "de": "geschälte Tomaten"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 200,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "ricotta infornata",
+            "en": "baked ricotta",
+            "fr": "ricotta cuite au four",
+            "de": "gebackene Ricotta"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": false,
+          "name": {
+            "it": "sale grosso",
+            "en": "coarse salt",
+            "fr": "gros sel",
+            "de": "grobes Salz"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "spicchio",
+          "scalable": true,
+          "name": {
+            "it": "aglio",
+            "en": "garlic",
+            "fr": "ail",
+            "de": "Knoblauch"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "olio di semi, per friggere",
+            "en": "seed oil, for frying",
+            "fr": "huile de graines, pour la friture",
+            "de": "Pflanzenöl, zum Frittieren"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Soffriggere in una capace pentola uno spicchio d'aglio tritato finemente in poco olio.",
+            "en": "In a large pan, gently fry a finely chopped garlic clove in a little oil.",
+            "fr": "Dans une grande casserole, faire revenir une gousse d'ail finement hachée dans un peu d'huile.",
+            "de": "In einem großen Topf eine fein gehackte Knoblauchzehe in wenig Öl anschwitzen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Aggiungere i pomodori pelati.",
+            "en": "Add the peeled tomatoes.",
+            "fr": "Ajouter les tomates pelées.",
+            "de": "Die geschälten Tomaten hinzufügen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Salare il sugo e portarlo a completa cottura, controllando che raggiunga una corretta densità (non troppo liquido).",
+            "en": "Salt the sauce and cook it through, making sure it thickens properly (not too runny).",
+            "fr": "Saler la sauce et la cuire complètement, en veillant à ce qu'elle ait la bonne consistance (pas trop liquide).",
+            "de": "Die Soße salzen und fertig kochen, bis sie die richtige Dicke hat (nicht zu flüssig)."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Lavare, spuntare e sbucciare a strisce le melanzane fresche.",
+            "en": "Wash and trim the fresh aubergines and peel them in stripes.",
+            "fr": "Laver et équeuter les aubergines fraîches, puis les éplucher en bandes.",
+            "de": "Die frischen Auberginen waschen, die Enden abschneiden und streifenweise schälen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Affettarle sottilmente.",
+            "en": "Slice them thinly.",
+            "fr": "Les couper en fines tranches.",
+            "de": "In dünne Scheiben schneiden."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Friggere le fettine di melanzana in abbondante olio di semi.",
+            "en": "Fry the aubergine slices in plenty of seed oil.",
+            "fr": "Faire frire les tranches d'aubergine dans beaucoup d'huile de graines.",
+            "de": "Die Auberginenscheiben in reichlich Pflanzenöl frittieren."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "A cottura ultimata asciugarle molto bene, più volte, su carta assorbente per eliminare l'olio in eccesso.",
+            "en": "When done, blot them thoroughly, several times, on kitchen paper to remove excess oil.",
+            "fr": "Une fois cuites, les éponger soigneusement, plusieurs fois, sur du papier absorbant pour retirer l'excès d'huile.",
+            "de": "Danach mehrmals gründlich auf Küchenpapier abtupfen, um überschüssiges Öl zu entfernen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Cuocere la pasta in abbondante acqua salata.",
+            "en": "Cook the pasta in plenty of salted water.",
+            "fr": "Cuire les pâtes dans beaucoup d'eau salée.",
+            "de": "Die Pasta in reichlich Salzwasser kochen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliare i dischi di melanzane fritte in strisce sottili e aggiungerli al sugo di pomodoro, lasciando alcune fette intere (tre per ogni piatto) per la decorazione finale.",
+            "en": "Cut the fried aubergine rounds into thin strips and add them to the tomato sauce, keeping some slices whole (three per plate) for the final garnish.",
+            "fr": "Couper les rondelles d'aubergine frites en fines lanières et les ajouter à la sauce tomate, en gardant quelques tranches entières (trois par assiette) pour la décoration.",
+            "de": "Die frittierten Auberginenscheiben in dünne Streifen schneiden und zur Tomatensoße geben; einige ganze Scheiben (drei pro Teller) für die Garnitur aufheben."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Aggiungere al sugo con le melanzane le foglie di basilico spezzate.",
+            "en": "Add the torn basil leaves to the sauce with the aubergines.",
+            "fr": "Ajouter à la sauce aux aubergines les feuilles de basilic déchirées.",
+            "de": "Die zerzupften Basilikumblätter zur Soße mit den Auberginen geben."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Scolare la pasta e unirla al condimento in padella, mescolando per amalgamare i sapori.",
+            "en": "Drain the pasta and toss it with the sauce in the pan to bring the flavours together.",
+            "fr": "Égoutter les pâtes et les mélanger à la sauce dans la poêle pour bien lier les saveurs.",
+            "de": "Die Pasta abgießen und in der Pfanne mit der Soße vermengen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Comporre i piatti con le fette di melanzana, una sotto e due sopra la pasta; grattugiare abbondante ricotta infornata e completare con una punta di basilico fresco e un giro leggero d'olio extravergine.",
+            "en": "Plate with the aubergine slices, one under and two on top of the pasta; grate plenty of baked ricotta over it and finish with a sprig of fresh basil and a light drizzle of extra virgin olive oil.",
+            "fr": "Dresser les assiettes avec les tranches d'aubergine, une dessous et deux sur les pâtes ; râper généreusement la ricotta cuite et finir avec un brin de basilic frais et un filet d'huile d'olive.",
+            "de": "Mit den Auberginenscheiben anrichten, eine unter und zwei auf der Pasta; reichlich gebackene Ricotta darüber reiben und mit etwas frischem Basilikum und einem leichten Schuss Olivenöl vollenden."
+          }
+        }
+      ],
+      "tips": {
+        "it": "Formato di pasta: elicoidali o spaghetti grossi. A Catania si usa la ricotta salata, nel messinese quella infornata.",
+        "en": "Pasta shape: elicoidali or thick spaghetti. In Catania they use salted ricotta, around Messina baked ricotta.",
+        "fr": "Forme de pâtes : elicoidali ou gros spaghetti. À Catane on utilise la ricotta salée, du côté de Messine la ricotta cuite au four.",
+        "de": "Nudelform: Elicoidali oder dicke Spaghetti. In Catania nimmt man gesalzene Ricotta, um Messina gebackene."
+      },
+      "photos": [
+        "595FF907-04D4-49C2-9244-D2C84FD1324C.jpg"
+      ]
+    },
+    {
+      "id": "565959B4-EE05-4FBD-90D0-B87F24AC0C08",
+      "title": {
+        "it": "Calamari grigliati con crema di melanzane bruciate",
+        "en": "Grilled squid with charred aubergine cream",
+        "fr": "Calamars grillés, crème d'aubergine brûlée",
+        "de": "Gegrillte Kalmare mit Creme aus verkohlter Aubergine"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 4,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": null,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 4,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "calamari di media pezzatura (uno a testa)",
+            "en": "medium squid (one per person)",
+            "fr": "calamars moyens (un par personne)",
+            "de": "mittelgroße Kalmare (einer pro Person)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 2,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "melanzane",
+            "en": "aubergines",
+            "fr": "aubergines",
+            "de": "Auberginen"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "limone",
+            "en": "lemon",
+            "fr": "citron",
+            "de": "Zitrone"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "foglie di prezzemolo, da friggere",
+            "en": "parsley leaves, to fry",
+            "fr": "feuilles de persil, à frire",
+            "de": "Petersilienblätter, zum Frittieren"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "lime",
+            "en": "lime",
+            "fr": "citron vert",
+            "de": "Limette"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 50,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "olio extravergine d'oliva",
+            "en": "extra virgin olive oil",
+            "fr": "huile d'olive vierge extra",
+            "de": "natives Olivenöl extra"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": false,
+          "name": {
+            "it": "sale",
+            "en": "salt",
+            "fr": "sel",
+            "de": "Salz"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 50,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "tahina",
+            "en": "tahini",
+            "fr": "tahini",
+            "de": "Tahini"
+          }
+        },
+        {
+          "group": "",
+          "quantity": null,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "valeriana, qualche ciuffo",
+            "en": "lamb's lettuce, a few sprigs",
+            "fr": "mâche, quelques pousses",
+            "de": "Feldsalat, ein paar Büschel"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Cuocete le melanzane su una griglia per circa 20 minuti, bruciacchiando un po' la buccia.",
+            "en": "Cook the aubergines on a grill for about 20 minutes, slightly charring the skin.",
+            "fr": "Cuire les aubergines sur un gril environ 20 minutes, en noircissant un peu la peau.",
+            "de": "Die Auberginen etwa 20 Minuten grillen, bis die Haut leicht verkohlt ist."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Tagliatele a pezzi senza pelarle, scartando solo il picciolo, e frullatele con la tahina, il succo di un limone, 50 g di olio e un pizzico di sale.",
+            "en": "Cut them into pieces without peeling, discarding only the stem, and blend with the tahini, the juice of a lemon, 50 g of oil and a pinch of salt.",
+            "fr": "Les couper en morceaux sans les peler, en retirant seulement le pédoncule, et les mixer avec le tahini, le jus d'un citron, 50 g d'huile et une pincée de sel.",
+            "de": "Ungeschält in Stücke schneiden, nur den Stiel entfernen, und mit Tahini, dem Saft einer Zitrone, 50 g Öl und einer Prise Salz pürieren."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Pulite i calamari e incidete il fondo con tagli di circa 1–1,5 cm per metà lunghezza; cuoceteli con i loro ciuffi in un sacchetto sottovuoto per circa 15 minuti a 70 °C nel roner o nel forno a vapore.",
+            "en": "Clean the squid and score the bottom with cuts about 1–1.5 cm apart, halfway up; cook them with their tentacles in a vacuum bag for about 15 minutes at 70 °C in a sous-vide bath or steam oven.",
+            "fr": "Nettoyer les calamars et inciser le bas sur la moitié de la longueur, tous les 1 à 1,5 cm ; les cuire avec leurs tentacules en sachet sous vide environ 15 minutes à 70 °C, sous vide ou au four vapeur.",
+            "de": "Die Kalmare säubern und unten bis zur halben Länge im Abstand von 1–1,5 cm einschneiden; mit den Tentakeln im Vakuumbeutel etwa 15 Minuten bei 70 °C im Sous-vide-Bad oder Dampfgarer garen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Scolateli e passateli con i ciuffi su una griglia calda, con un pizzico di sale, circa 1 minuto per lato o fino a coloritura.",
+            "en": "Drain them and put them with the tentacles on a hot grill with a pinch of salt, about 1 minute per side or until coloured.",
+            "fr": "Les égoutter et les passer avec les tentacules sur un gril chaud, avec une pincée de sel, environ 1 minute par face ou jusqu'à coloration.",
+            "de": "Abtropfen lassen und mit den Tentakeln und einer Prise Salz auf einem heißen Grill etwa 1 Minute pro Seite bräunen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Serviteli con la crema di melanzane, completando con fette di lime, foglioline di prezzemolo fritte e qualche ciuffo di valeriana.",
+            "en": "Serve with the aubergine cream, finishing with lime slices, fried parsley leaves and a few sprigs of lamb's lettuce.",
+            "fr": "Servir avec la crème d'aubergine, avec des tranches de citron vert, des feuilles de persil frites et quelques pousses de mâche.",
+            "de": "Mit der Auberginencreme servieren und mit Limettenscheiben, frittierten Petersilienblättchen und etwas Feldsalat vollenden."
+          }
+        }
+      ],
+      "tips": {
+        "it": ""
+      },
+      "photos": [
+        "565959B4-EE05-4FBD-90D0-B87F24AC0C08.jpg"
+      ]
+    },
+    {
+      "id": "0549E4D5-9750-4D33-9EE7-F537719CFACE",
+      "title": {
+        "it": "Bavarese all'arancia",
+        "en": "Orange bavarois",
+        "fr": "Bavarois à l'orange",
+        "de": "Orangen-Bayerische Creme"
+      },
+      "summary": {
+        "it": ""
+      },
+      "servings": 6,
+      "prepMinutes": null,
+      "cookMinutes": null,
+      "restMinutes": 240,
+      "difficulty": null,
+      "ingredients": [
+        {
+          "group": "",
+          "quantity": 300,
+          "unit": "ml",
+          "scalable": true,
+          "name": {
+            "it": "panna fresca",
+            "en": "fresh cream",
+            "fr": "crème fraîche liquide",
+            "de": "frische Sahne"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 150,
+          "unit": "ml",
+          "scalable": true,
+          "name": {
+            "it": "latte intero",
+            "en": "whole milk",
+            "fr": "lait entier",
+            "de": "Vollmilch"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 75,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "zucchero",
+            "en": "sugar",
+            "fr": "sucre",
+            "de": "Zucker"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 3,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "tuorli",
+            "en": "egg yolks",
+            "fr": "jaunes d'œufs",
+            "de": "Eigelb"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 6,
+          "unit": "g",
+          "scalable": true,
+          "name": {
+            "it": "gelatina in fogli (circa 3 fogli)",
+            "en": "leaf gelatine (about 3 sheets)",
+            "fr": "gélatine en feuilles (environ 3 feuilles)",
+            "de": "Blattgelatine (etwa 3 Blatt)"
+          }
+        },
+        {
+          "group": "",
+          "quantity": 1,
+          "unit": "",
+          "scalable": true,
+          "name": {
+            "it": "arancia non trattata (succo e scorza)",
+            "en": "unwaxed orange (juice and zest)",
+            "fr": "orange non traitée (jus et zeste)",
+            "de": "unbehandelte Orange (Saft und Schale)"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "group": "",
+          "text": {
+            "it": "Metti i fogli di gelatina in ammollo in acqua fredda per 10 minuti.",
+            "en": "Soak the gelatine sheets in cold water for 10 minutes.",
+            "fr": "Faire tremper les feuilles de gélatine dans l'eau froide pendant 10 minutes.",
+            "de": "Die Gelatineblätter 10 Minuten in kaltem Wasser einweichen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Scalda il latte con la scorza grattugiata dell'arancia (solo la parte arancione) e metà dello zucchero, senza far bollire, per estrarre l'aroma. Filtra e tieni da parte.",
+            "en": "Warm the milk with the grated orange zest (only the orange part) and half the sugar, without boiling, to draw out the aroma. Strain and set aside.",
+            "fr": "Chauffer le lait avec le zeste d'orange râpé (seulement la partie orange) et la moitié du sucre, sans faire bouillir, pour en extraire l'arôme. Filtrer et réserver.",
+            "de": "Die Milch mit der abgeriebenen Orangenschale (nur das Orange) und der Hälfte des Zuckers erwärmen, ohne zu kochen, damit sie das Aroma aufnimmt. Abseihen und beiseitestellen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "In una ciotola monta i tuorli con lo zucchero rimasto fino a ottenere un composto chiaro e spumoso.",
+            "en": "In a bowl, whisk the yolks with the remaining sugar until pale and frothy.",
+            "fr": "Dans un bol, fouetter les jaunes avec le reste du sucre jusqu'à ce que le mélange soit clair et mousseux.",
+            "de": "In einer Schüssel die Eigelbe mit dem restlichen Zucker hell und schaumig schlagen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Versa il latte caldo a filo, mescolando continuamente.",
+            "en": "Pour in the warm milk in a thin stream, stirring constantly.",
+            "fr": "Verser le lait chaud en filet, en remuant sans cesse.",
+            "de": "Die warme Milch in einem dünnen Strahl unter ständigem Rühren zugießen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Rimetti sul fuoco e cuoci a fiamma bassa mescolando, finché la crema raggiunge 82 °C (deve velare il cucchiaio). Non far bollire.",
+            "en": "Return to the heat and cook over a low flame, stirring, until the custard reaches 82 °C (it should coat the spoon). Do not boil.",
+            "fr": "Remettre sur le feu et cuire à feu doux en remuant, jusqu'à ce que la crème atteigne 82 °C (elle doit napper la cuillère). Ne pas faire bouillir.",
+            "de": "Zurück auf den Herd stellen und bei schwacher Hitze rührend garen, bis die Creme 82 °C erreicht (sie soll den Löffel überziehen). Nicht kochen lassen."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Togli dal fuoco, aggiungi la gelatina strizzata e mescola finché si scioglie.",
+            "en": "Remove from the heat, add the squeezed gelatine and stir until dissolved.",
+            "fr": "Retirer du feu, ajouter la gélatine essorée et remuer jusqu'à ce qu'elle fonde.",
+            "de": "Vom Herd nehmen, die ausgedrückte Gelatine zugeben und rühren, bis sie sich auflöst."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Quando la crema è tiepida (ma non ancora rappresa), incorpora il succo d'arancia filtrato e mescola bene.",
+            "en": "When the custard is lukewarm (but not yet set), stir in the strained orange juice.",
+            "fr": "Quand la crème est tiède (mais pas encore prise), incorporer le jus d'orange filtré et bien mélanger.",
+            "de": "Wenn die Creme lauwarm (aber noch nicht fest) ist, den abgeseihten Orangensaft gut unterrühren."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Monta la panna a consistenza morbida e incorporala delicatamente alla crema, dal basso verso l'alto, per non smontarla.",
+            "en": "Whip the cream to soft peaks and gently fold it into the custard, from the bottom up, so it doesn't deflate.",
+            "fr": "Monter la crème en chantilly souple et l'incorporer délicatement à la crème, de bas en haut, pour ne pas la faire retomber.",
+            "de": "Die Sahne locker schlagen und vorsichtig von unten nach oben unter die Creme heben, damit sie nicht zusammenfällt."
+          }
+        },
+        {
+          "group": "",
+          "text": {
+            "it": "Versa in stampi monoporzione o in uno stampo unico e congela per almeno 4 ore.",
+            "en": "Pour into individual moulds or a single mould and freeze for at least 4 hours.",
+            "fr": "Verser dans des moules individuels ou un grand moule et congeler au moins 4 heures.",
+            "de": "In Portionsförmchen oder eine große Form füllen und mindestens 4 Stunden einfrieren."
+          }
+        }
+      ],
+      "tips": {
+        "it": "Prima di servire lasciala a temperatura ambiente per 5–10 minuti. Puoi decorare con fettine di arancia candita, cioccolato fondente grattugiato o un velo di glassa all'arancia. Si può congelare.",
+        "en": "Before serving, leave it at room temperature for 5–10 minutes. You can decorate with candied orange slices, grated dark chocolate or a thin orange glaze. It freezes well.",
+        "fr": "Avant de servir, la laisser 5 à 10 minutes à température ambiante. Décorer de tranches d'orange confite, de chocolat noir râpé ou d'un voile de glaçage à l'orange. Se congèle.",
+        "de": "Vor dem Servieren 5–10 Minuten bei Raumtemperatur stehen lassen. Mit kandierten Orangenscheiben, geriebener Zartbitterschokolade oder etwas Orangenglasur verzieren. Lässt sich einfrieren."
+      },
+      "photos": [
+        "0549E4D5-9750-4D33-9EE7-F537719CFACE.jpg"
+      ]
+    }
+  ]
+}
